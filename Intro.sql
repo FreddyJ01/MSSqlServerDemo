@@ -1,3 +1,5 @@
+-- Creating a new table and basic CRUD operatinons.
+
 -- The use command specifies which database we are currently manipulating.
 USE DemoDB
 GO
